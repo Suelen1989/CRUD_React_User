@@ -21,10 +21,45 @@ Este projeto é uma aplicação CRUD simples para gerenciar usuários, construí
 ### Pré-requisitos
 - Node.js instalado na versão 14 ou superior
 - npm ou yarn instalado
-- 
+  
 ### Passos para Configuração
 
 1. Clone o repositório:
 ````bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ````
+
+2. Acesse o diretório do projeto:
+````bash
+cd nome-do-repositorio
+````
+
+3. Instale as dependências:
+   
+Usando npm:
+````bash
+npm install
+````
+Ou usando yarn:
+````bash
+yarn install
+````
+
+4. Inicie o servidor de desenvolvimento:
+   
+Usando npm:
+````bash
+npm run dev
+````
+Ou usando yarn:
+````bash
+yarn dev
+````
+
+5. Acesse a aplicação no navegador:
+   
+O servidor será iniciado e você poderá acessar o projeto no endereço:
+````bash
+http://localhost:5173
+````
+
