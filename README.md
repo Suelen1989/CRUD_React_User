@@ -4,17 +4,17 @@ Este projeto é uma aplicação CRUD simples para gerenciar usuários, construí
 
 ## Funcionalidades
 
-- Cadastrar Usuários: Insira nome, e-mail, telefone e data de nascimento.
-- Editar Usuários: Edite os detalhes de um usuário existente.
-- Excluir Usuários: Remova usuários da lista.
-- Persistência Local: Os dados são armazenados no localStorage do navegador.
+- **Cadastrar Usuários:** Insira nome, e-mail, telefone e data de nascimento.
+- **Editar Usuários:** Edite os detalhes de um usuário existente.
+- **Excluir Usuários:** Remova usuários da lista.
+- **Persistência Local:** Os dados são armazenados no localStorage do navegador.
 
 ## Tecnologias Utilizadas
 
-- React
-- Chakra UI - Biblioteca de componentes UI
-- Vite - Build tool
-- Local Storage - Para persistir os dados localmente
+- **React**
+- **Chakra UI** - Biblioteca de componentes UI
+- **Vite** - Build tool
+- **Local Storage** - Para persistir os dados localmente
   
 ## Como Rodar o Projeto Localmente
 
